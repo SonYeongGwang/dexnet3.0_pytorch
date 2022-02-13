@@ -11,7 +11,7 @@ note
 - DexNet3.0 datasets consist of 2,760 objs and each has 1,000 suction samples
 - Input depth image in 32x32x1
 - DexNet3.0 dataset download path: https://berkeley.app.box.com/s/6mnb2bzi5zfa7qpwyn7uq5atb7vbztng/folder/38455887072
-- To fetch full dexnet3.0 dataset onto your RAM, there're should be at least 20GB free space.
+- To fetch full dexnet3.0 dataset onto your RAM, there should be at least 20GB free space.
 '''
 
 home = os.path.expanduser('~')
