@@ -26,3 +26,12 @@ If you want to train with a fewer images, reduce 'number_of_files' in the [train
 
 #### Results
 - Using GQ-CNN trained with the Dexnet3.0 dataset, stable suction grasping point on a object can be determined.
+
+<div align="center">
+<img src="https://github.com/SonYeongGwang/dexnet3.0_pytorch/blob/master/results/box_candidates.png" height="200px" width="340px">
+<img src="https://github.com/SonYeongGwang/dexnet3.0_pytorch/blob/master/results/box_final.png" height="200px" width="340px">
+<img src="https://github.com/SonYeongGwang/dexnet3.0_pytorch/blob/master/results/cylinder_candidates.png" height="200px" width="340px">
+<img src="https://github.com/SonYeongGwang/dexnet3.0_pytorch/blob/master/results/cylinder_final.png" height="200px" width="340px">
+<img src="https://github.com/SonYeongGwang/dexnet3.0_pytorch/blob/master/results/knife_candidates.png" height="200px" width="340px">
+<img src="https://github.com/SonYeongGwang/dexnet3.0_pytorch/blob/master/results/knife_final.png" height="200px" width="340px">
+</div>
