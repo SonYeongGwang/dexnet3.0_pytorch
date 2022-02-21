@@ -18,7 +18,6 @@ home = os.path.expanduser('~')
 def getCandidateInfoList(number_of_files = 1000,use_sub_data = True):
     
     data_path = home+"your/path/to/tensors"
-    data_path = home+"/Documents/dexnet_3/dexnet_09_13_17/tensors"
     ## for exmple) "/Documents/dexnet_3/dexnet_09_13_17/tensors"
 
     depth_img_list = glob.glob(data_path+'/depth*')
